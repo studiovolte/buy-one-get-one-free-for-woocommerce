@@ -1,0 +1,17 @@
+.sv-bogo-button {
+    margin-right: 12px !important;
+}
+.cf-complex__group.sv-offer-disabled {
+    opacity: 0.65 !important;
+}
+.container-carbon_fields_container_buy_one_get_one .cf-complex__group-title a {
+    display: inline-block !important;
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+}
+.cf-complex__group-index.sv-offer-active {
+    background: rgba(126, 202, 84, 0.48);
+}
+.cf-complex__group-index.sv-offer-disabled {
+    background: rgba(255, 45, 45, 0.48);
+}
